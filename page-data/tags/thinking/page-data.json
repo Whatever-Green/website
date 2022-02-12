@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/thinking",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Real thinking requires some type of externalization. Notebook, mind maps, text editor, etc.","fields":{"slug":"/externalize-your-thinking","title":"Externalize Your Thinking","date":"2022-02-12T22:19:22.030Z","excerpt":null},"frontmatter":{"tags":["zettelkasten","learning","thinking","notes"]}}}]}},"pageContext":{"tag":"thinking","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}
